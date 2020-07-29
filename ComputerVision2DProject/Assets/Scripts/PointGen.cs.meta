@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 64c266e41b3b0404a85a648032a5375d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SmallPoint: {fileID: 165446725839877628, guid: 6d2e82198a01b0d42bb09f5a7590a7f1,
+      type: 3}
+  - BigPoint: {fileID: 4889553087387357980, guid: c4cd521ef8f954f43bcbc30626be8d01,
+      type: 3}
+  - Player: {fileID: 2611853953522481684, guid: b6033b4558bc6d24a90f9717a158a472,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
